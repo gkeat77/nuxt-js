@@ -1,7 +1,7 @@
 <template>
     <v-app dark>
         <v-row>
-            <v-col cols="3">
+            <v-col cols="2">
                 <ChartTest></ChartTest>
             </v-col>
             <v-col>
